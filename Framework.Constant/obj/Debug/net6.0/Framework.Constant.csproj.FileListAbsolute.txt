@@ -1,0 +1,22 @@
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Constant\bin\Debug\net6.0\Framework.Constant.deps.json
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Constant\bin\Debug\net6.0\Framework.Constant.dll
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Constant\bin\Debug\net6.0\Framework.Constant.pdb
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Constant\obj\Debug\net6.0\Framework.Constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Constant\obj\Debug\net6.0\Framework.Constant.AssemblyInfoInputs.cache
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Constant\obj\Debug\net6.0\Framework.Constant.AssemblyInfo.cs
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Constant\obj\Debug\net6.0\Framework.Constant.csproj.CoreCompileInputs.cache
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Constant\obj\Debug\net6.0\Framework.Constant.dll
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Constant\obj\Debug\net6.0\refint\Framework.Constant.dll
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Constant\obj\Debug\net6.0\Framework.Constant.pdb
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Constant\obj\Debug\net6.0\ref\Framework.Constant.dll
+C:\Users\rsi\Downloads\User 1\User\Framework.Constant\bin\Debug\net6.0\Framework.Constant.deps.json
+C:\Users\rsi\Downloads\User 1\User\Framework.Constant\bin\Debug\net6.0\Framework.Constant.dll
+C:\Users\rsi\Downloads\User 1\User\Framework.Constant\bin\Debug\net6.0\Framework.Constant.pdb
+C:\Users\rsi\Downloads\User 1\User\Framework.Constant\obj\Debug\net6.0\Framework.Constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsi\Downloads\User 1\User\Framework.Constant\obj\Debug\net6.0\Framework.Constant.AssemblyInfoInputs.cache
+C:\Users\rsi\Downloads\User 1\User\Framework.Constant\obj\Debug\net6.0\Framework.Constant.AssemblyInfo.cs
+C:\Users\rsi\Downloads\User 1\User\Framework.Constant\obj\Debug\net6.0\Framework.Constant.csproj.CoreCompileInputs.cache
+C:\Users\rsi\Downloads\User 1\User\Framework.Constant\obj\Debug\net6.0\Framework.Constant.dll
+C:\Users\rsi\Downloads\User 1\User\Framework.Constant\obj\Debug\net6.0\refint\Framework.Constant.dll
+C:\Users\rsi\Downloads\User 1\User\Framework.Constant\obj\Debug\net6.0\Framework.Constant.pdb
+C:\Users\rsi\Downloads\User 1\User\Framework.Constant\obj\Debug\net6.0\ref\Framework.Constant.dll

@@ -1,0 +1,34 @@
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\obj\Debug\net6.0\Framework.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\obj\Debug\net6.0\Framework.Service.AssemblyInfoInputs.cache
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\obj\Debug\net6.0\Framework.Service.AssemblyInfo.cs
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\obj\Debug\net6.0\Framework.Service.csproj.CoreCompileInputs.cache
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\obj\Debug\net6.0\Framework.Service.csproj.AssemblyReference.cache
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\bin\Debug\net6.0\Framework.Service.deps.json
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\bin\Debug\net6.0\Framework.Service.dll
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\bin\Debug\net6.0\Framework.Service.pdb
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\bin\Debug\net6.0\Framework.Constant.dll
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\bin\Debug\net6.0\Framework.Constant.pdb
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\obj\Debug\net6.0\Framework.Service.csproj.CopyComplete
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\obj\Debug\net6.0\Framework.Service.dll
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\obj\Debug\net6.0\refint\Framework.Service.dll
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\obj\Debug\net6.0\Framework.Service.pdb
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\obj\Debug\net6.0\ref\Framework.Service.dll
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\bin\Debug\net6.0\Framework.Configuration.dll
+C:\Users\pappu\source\repos\UserSolution\User\Framework.Service\bin\Debug\net6.0\Framework.Configuration.pdb
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\bin\Debug\net6.0\Framework.Service.deps.json
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\bin\Debug\net6.0\Framework.Service.dll
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\bin\Debug\net6.0\Framework.Service.pdb
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\bin\Debug\net6.0\Framework.Configuration.dll
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\bin\Debug\net6.0\Framework.Constant.dll
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\bin\Debug\net6.0\Framework.Configuration.pdb
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\bin\Debug\net6.0\Framework.Constant.pdb
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\obj\Debug\net6.0\Framework.Service.csproj.AssemblyReference.cache
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\obj\Debug\net6.0\Framework.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\obj\Debug\net6.0\Framework.Service.AssemblyInfoInputs.cache
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\obj\Debug\net6.0\Framework.Service.AssemblyInfo.cs
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\obj\Debug\net6.0\Framework.Service.csproj.CoreCompileInputs.cache
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\obj\Debug\net6.0\Framework.Service.csproj.CopyComplete
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\obj\Debug\net6.0\Framework.Service.dll
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\obj\Debug\net6.0\refint\Framework.Service.dll
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\obj\Debug\net6.0\Framework.Service.pdb
+C:\Users\rsi\Downloads\User 1\User\Framework.Service\obj\Debug\net6.0\ref\Framework.Service.dll

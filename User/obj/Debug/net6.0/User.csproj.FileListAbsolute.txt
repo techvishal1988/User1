@@ -1,0 +1,232 @@
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\User.csproj.AssemblyReference.cache
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\User.AssemblyInfoInputs.cache
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\User.AssemblyInfo.cs
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\User.csproj.CoreCompileInputs.cache
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\User.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\User.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\appsettings.json
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\User.exe
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\User.deps.json
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\User.runtimeconfig.json
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\User.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\User.pdb
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Amazon.AspNetCore.Identity.Cognito.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Amazon.Extensions.CognitoAuthentication.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\AWSSDK.CognitoIdentity.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\AWSSDK.CognitoIdentityProvider.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Framework.Constant.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Framework.Service.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Framework.Service.pdb
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Framework.Constant.pdb
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\staticwebassets\msbuild.User.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\staticwebassets\msbuild.build.User.props
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.User.props
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.User.props
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\scopedcss\bundle\User.styles.css
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\User.csproj.CopyComplete
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\User.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\refint\User.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\User.pdb
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\User.genruntimeconfig.cache
+C:\Users\pappu\source\repos\UserSolution\User\User\obj\Debug\net6.0\ref\User.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Ben.Demystifier.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Ensure.That.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\LinqKit.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\LinqKit.Core.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Serilog.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Framework.Configuration.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Framework.Configuration.pdb
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pappu\source\repos\UserSolution\User\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\appsettings.json
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\User.exe
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\User.deps.json
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\User.runtimeconfig.json
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\User.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\User.pdb
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Amazon.AspNetCore.Identity.Cognito.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Amazon.Extensions.CognitoAuthentication.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\AWSSDK.CognitoIdentity.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\AWSSDK.CognitoIdentityProvider.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Ben.Demystifier.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Ensure.That.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\LinqKit.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\LinqKit.Core.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Serilog.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Framework.Configuration.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Framework.Constant.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Framework.Service.dll
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Framework.Service.pdb
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Framework.Configuration.pdb
+C:\Users\rsi\Downloads\User 1\User\User\bin\Debug\net6.0\Framework.Constant.pdb
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\User.csproj.AssemblyReference.cache
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\User.AssemblyInfoInputs.cache
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\User.AssemblyInfo.cs
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\User.csproj.CoreCompileInputs.cache
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\User.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\User.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\staticwebassets\msbuild.User.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\staticwebassets\msbuild.build.User.props
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.User.props
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.User.props
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\scopedcss\bundle\User.styles.css
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\User.csproj.CopyComplete
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\User.dll
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\refint\User.dll
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\User.pdb
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\User.genruntimeconfig.cache
+C:\Users\rsi\Downloads\User 1\User\User\obj\Debug\net6.0\ref\User.dll
